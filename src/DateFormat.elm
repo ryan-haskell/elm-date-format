@@ -579,6 +579,7 @@ months =
     , Jul
     , Aug
     , Sep
+    , Oct
     , Nov
     , Dec
     ]
