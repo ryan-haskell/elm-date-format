@@ -3,6 +3,13 @@
 
 [![Build Status](https://travis-ci.org/ryannhg/elm-date-format.svg?branch=master)](https://travis-ci.org/ryannhg/elm-date-format)
 
+### DEPRECATED: There's a new version!
+
+If you are able to use Elm 0.19, you should check out [ryannhg/date-format](https://www.github.com/ryannhg/date-format).
+
+That version will have the latest updates and features (like supporting multiple languages!)
+
+
 ### Using the [elm package](http://package.elm-lang.org/packages/ryannhg/elm-date-format/latest)
 
 ```
